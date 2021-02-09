@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "name": "Sheena Mary",
+      "username": "sgdsdj",
+      "password": "22436567",
+      "address": "Sheena cottage",
+      "street": "Perumpuzha PO",
+      "zipCode": "691504",
+      "country": "India",
+      "email": "dsklk@vdsn.com",
+      "gender": "female",
+      "maritalstatus": "married",
+      "phonenumber": "8547540901",
+      "dateofbirth": "2021-02-19",
+      "registrationDate": "2021-02-27",
+      "idtype": "passport",
+      "idnumber": "swwff",
+      "id": "R-903"
+    },
+    {
+      "name": "Sheena Mary",
+      "username": "sheena12",
+      "password": "1234535",
+      "address": "Sheena cottage",
+      "street": "Perumpuzha PO",
+      "zipCode": "691504",
+      "country": "India",
+      "email": "dnsbf@ddfjk.com",
+      "gender": "female",
+      "maritalstatus": "married",
+      "phonenumber": "8547540901",
+      "dateofbirth": "2021-02-21",
+      "registrationDate": "2021-02-21",
+      "idtype": "passport",
+      "idnumber": "dfwfg",
+      "id": "R-138"
+    },
+    {
+      "name": "venith",
+      "username": "venith",
+      "password": "venith",
+      "address": "venith",
+      "street": "venith",
+      "zipCode": "689544",
+      "country": "india",
+      "email": "ve@ve.com",
+      "gender": "male",
+      "maritalstatus": "married",
+      "phonenumber": "1234567890",
+      "dateofbirth": "2021-02-08",
+      "registrationDate": "2021-02-09",
+      "idtype": "passport",
+      "idnumber": "2323232",
+      "id": "R-196"
+    }
+  ]
+}
